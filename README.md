@@ -6,4 +6,4 @@ By providing a sitemap, you can indicate to search engines which pages and files
 
 In this guide, I'll walk you through the process of automating the creation of a sitemap using Node.js. The guide will cover the creation of both sitemap index and sitemaps, along with handling multi-language content. Furthermore, I will show you how to automate the entire process, resulting in a fully-automated Node.js server for sitemap generation.
 
-[Full article](https://codebeyondlimits.com/articles/automating-sitemap-generation-with-node.js-the-step-by-step-guide)
+[Full article](https://codebeyondlimits.com/articles/automating-sitemap-generation-with-node-js-the-step-by-step-guide)
