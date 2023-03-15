@@ -1,0 +1,32 @@
+{
+  "name": "automatic-sitemap-generator",
+  "version": "1.0.0",
+  "description": "Automating Sitemap Generation with Node.js: The Step-by-Step Guide",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123NeNaD/automatic-sitemap-generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "javascript",
+    "sitemap",
+    "automation"
+  ],
+  "author": "Nenad Milosavljevic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/123NeNaD/automatic-sitemap-generator/issues"
+  },
+  "homepage": "https://github.com/123NeNaD/automatic-sitemap-generator#readme",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cron": "^2.2.0",
+    "express": "^4.18.2",
+    "sitemap": "^7.1.1"
+  }
+}
