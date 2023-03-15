@@ -1,0 +1,1 @@
+# automatic-sitemap-generator
